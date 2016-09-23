@@ -1,0 +1,11 @@
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\ivrmobile.dll
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\ivrmobile.pdb
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\ivrmobile.xml
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\Newtonsoft.Json.dll
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\Newtonsoft.Json.pdb
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\bin\Newtonsoft.Json.xml
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\obj\Debug\ivrmobile.Resources.resources
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\obj\Debug\ivrmobile.vbproj.GenerateResource.Cache
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\obj\Debug\ivrmobile.dll
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\obj\Debug\ivrmobile.xml
+D:\Restu\Kerjaan\2016\BC\RISET\ivr\ivrmobile\ivrmobile\ivrmobile\obj\Debug\ivrmobile.pdb
