@@ -25,7 +25,11 @@
     <form id="form1" runat="server">
 		<br>
 		<strong>
+<<<<<<< HEAD
 			Hello Hello Hello
+=======
+			Hello Hello HELL-O!! Hell I
+>>>>>>> e8d2efa04496fa07162da206553c771b12a533d2
 		</strong>
 		<br>
 		<strong>
