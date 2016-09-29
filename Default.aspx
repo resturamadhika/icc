@@ -25,7 +25,16 @@
     <form id="form1" runat="server">
 		<br>
 		<strong>
+<<<<<<< HEAD
 			Umar Bego Commit Saja Tidak Bisa
+=======
+<<<<<<< HEAD
+			Hello Hello Hello
+=======
+Sob Komit
+			Hello Hello HELL-O!! Hell I
+>>>>>>> e8d2efa04496fa07162da206553c771b12a533d2
+>>>>>>> bb749ec5a56eceb037745232dc9df1a88bd1d302
 		</strong>
 		<br>
 		<strong>
